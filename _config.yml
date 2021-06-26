@@ -15,6 +15,7 @@ author: Chen Sun
 
 navbar-links:
   About Me: "aboutme"
+  About This Site: "about_this_site"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
@@ -22,6 +23,7 @@ navbar-links:
   Publications: "pub"
   Talks: "talk"
   CV: "cv"
+  
   
   
 
