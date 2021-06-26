@@ -14,6 +14,7 @@ author: Chen Sun
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  Blog: "index"
   About Me: "aboutme"
   About This Site: "about_this_site"
   # Resources:
