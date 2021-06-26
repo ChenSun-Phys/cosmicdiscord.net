@@ -10,6 +10,8 @@ The full publication record can be found [here](https://inspirehep.net/authors/1
 
 - Two-Scalar Bose-Einstein Condensates: From Stars to Galaxies, _Guo, Sinha, CS, Swaim, Vagie_, [2010.15977](https://arxiv.org/abs/2010.15977)
 
+- Probing Boson Stars with Extreme Mass Ratio Inspirals, _Guo, Sinha, CS_, [1904.07871](https://arxiv.org/abs/1904.07871)
+
 - Boson Star from Repulsive Light Scalars and Gravitational Waves, _Croon, Fan, CS_, [1810.01420](https://arxiv.org/abs/1810.01420)
 
 - Hidden-Sector Spectroscopy with Gravitational Waves from Binary Neutron Stars, _Croon, Nelson, CS, Walker, Xianyu_, [1711.02096](https://arxiv.org/abs/1711.02096)
