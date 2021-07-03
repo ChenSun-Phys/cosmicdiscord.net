@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About this site
-cover-img: /assets/img/self_gen/purr_qna.jpg 
+cover-img: /assets/img/self_gen/purr_qna.jpg
 ---
 Welcome to my personal website/blog. While the social network is great for connections and interactions, it is important for me to have a place where I can pour in my thoughts without being distracted by cats videos (oh you certainly can't blame me for that, they are so cute!) Plus, the site can be maintained within my Emacs (yayyy Emacs!) so it's much simpler for me. The blog is mostly some jibber-jabber or hodge-podge on things I do for a living during the day, _i.e._ all the serious effort (namely thinking, computing, listening, explaining, and arguing) dedicated to understanding how Universe works at the fundamental level. Often times, these efforts must be made with small baby steps, as it is quite easy to get lost quickly if one jumps to conclusion even accidentally. In that sense, writing it down also forces myself to re-think the big picture, and to examine the big picture. As Prof. Kyungwha Park once told me during graduate school, "research" is approximately equal to "re-search" - searching for ideas and solutions again and again with new understandings from retrospection. Plus, it brings me great joy to share with people who do not happen to be thinking of the same topics, who do not work in this field, or who do not work in physics at all but are curious to understand. After all, Richard Feynman once said, if you cannot explain something in simple terms, you don't understand it.
 I will try to provide some simple background explanations on those papers that I publish. Often times, I throw in some half-baked ideas for fun. Viewer discretion (for these ideas) is advised. 
