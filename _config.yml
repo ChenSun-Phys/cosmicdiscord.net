@@ -177,10 +177,10 @@ google_analytics: "UA-106086146-1"
 # label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 utterances:
-repository: "ChenSun-Phys/sunchen.me" # GitHub username/repository eg. "daattali/beautiful-jekyll"
-issue-term: title   # Mapping between blog posts and GitHub issues
-theme: github-light # Utterances theme
-label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
+  repository: "ChenSun-Phys/sunchen.me"
+  issue-term: title
+  theme: github-light
+  label: blog-comments
 
 # To use Staticman comments, uncomment the following section. You may leave the reCaptcha
 # section commented if you aren't using reCaptcha for spam protection. 
