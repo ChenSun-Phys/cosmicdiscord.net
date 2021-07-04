@@ -2,7 +2,7 @@
 layout: post
 title: Cosmic distance, and how they are measured
 subtitle: A quick walk through of two cosmic distance measurements
-tags: [pop science, cosmology]
+tags: [pop science, astronomy]
 comments: true
 cover-img: /assets/img/andromeda.jpg
 thumbnail-img: /assets/img/andromeda.jpg

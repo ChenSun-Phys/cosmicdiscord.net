@@ -12,3 +12,5 @@ Instead, I will try to provide some simple background explanations on various th
 Often times, I throw in some half-baked ideas for fun. Viewer discretion (for these ideas) is advised. 
 
 Lastly, as a beyond the Standard Model junkie, I am most interested in phenomena that cannot be easily explained with the current knowledge/framework and thus hint for new physics. However, in understanding the background of each new topic, they often leads me through amazing journeys where I realize how ignorant I had been and how much fun physics is! In sharing the basics of topics related to my research, I hope I could share the excitement with you.
+
+(Note: Starting July 3, 2021, this site is no longer hosted on Google Sites. Some of the old posts will be added after recovery. )
