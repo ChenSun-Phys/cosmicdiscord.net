@@ -36,8 +36,7 @@ The rest is similar to the SNIa's methodology: a determination of the galaxy clu
 ### Final thoughts
 Some assumptions go into both methods, with the leading uncertainty coming from the modeling of the magnetic field in different environments. In SNIa method, the constrain is put on $$g_{a\gamma} B_{IGM}$$, while in the second method, it relies on the modeling of the magnetic field profile in Intra-Cluster Medium (ICM). We test the dependence with both Bayesian and Frequentist's approach. The final result can be summarized in the following plot.
 
-<!-- ![fig](../assets/img/inkscape/gm2_tree.png){: .mx-auto.d-block :} -->
-{% include image.html url="../assets/img/self_gen/distII_latechisq.png" description="Figure 1: The constraint on $g_{a\gamma}$ with combined data sets." %}
+![fig](../assets/img/self_gen/distII_latechisq.png){: .mx-auto.d-block :}
 
 
   In the plot ICM A-C are three different models of the magnetic field in galaxy clusters. We test all of them to show the uncertainty associated with the theoretical modeling. In the red curve we switch off photon-axion conversion inside galaxy clusters all together while allowing the conversion in IGM. This curve rescales as $$B_{IGM}$$/nG.
