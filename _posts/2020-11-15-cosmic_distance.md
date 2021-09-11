@@ -2,7 +2,7 @@
 layout: post
 title: Cosmic distance and BSM
 subtitle: Ideas of how BSM affects (hence can be constrained by) distance measurements
-tags: [cosmology]
+tags: [cosmology, new paper]
 comments: true
 cover-img: /assets/img/cosmo_timeline.jpg
 thumbnail-img: /assets/img/self_gen/distII_latechisq.png
