@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cosmic distance and BSM
+title: Cosmic distance meets axions
 subtitle: Ideas of how BSM affects (hence can be constrained by) distance measurements
 tags: [astronomy, new paper, BSM]
 comments: true
