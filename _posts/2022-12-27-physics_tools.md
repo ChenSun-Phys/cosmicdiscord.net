@@ -4,9 +4,9 @@ title: Physicists' Toolbox Part I
 subtitle: A quick tour to the tools we use for our daily drives
 tags: [pop science]
 comments: true
-<!--  cover-img: /assets/img/scrapy_SN.jpg -->
-<!--  thumbnail-img: /assets/img/scrapy_SN.jpg -->
-<!--  share-img: /assets/img/scrapy_SN.jpg -->
+cover-img: /assets/img/tool-box.png
+thumbnail-img: /assets/img/tool-box.png
+share-img: /assets/img/tool-box.png
 ---
 
 It's been such a busy year for me. I went through the painstaking job application (perhaps worth a post in the future) in January, helped my family to recover from COVID in April, worked on a grant proposal in July, took care of my family during a medical issue in August, shipped my household from Israel to the States in September, vacated my apartment in Tel Aviv and visited the Weizmann Institute of Science until October, attended a workshop at CERN before traveling with Julie and Purr Purr (the cat) to New Mexico, settling and starting my new job in November, all this time making real progress on my projects with collaborators in five different time zones as well as fulfilling my community commitments like Snowmass white papers and serving as a referee for four journals. I guess I can definitely use some downtime to unwind during the holiday break. As I'm sure many of you also went through a lot this year, I wish you can find your peace during the holiday break.
@@ -96,4 +96,6 @@ You can see that even with this aggressive assumption, the amount of dark matter
 Many people like the order-of-magnitude estimate for different reasons. For me, this converts the slow thinking process to the fast thinking process, if you are also a big fan of Daniel Kahneman. 
 
 In the end, here's a word of warning: during an order-of-magnitude estimate, your intuition gets amplified, you get some quick answer, and it's more fun, but that also means you could easily miss some important details. After all, this is just the first step of a serious estimate. 
+
+(Cover picture credit: [here](https://cyclingtips.com/2019/01/toolboxwars-a-battle-between-professional-cycling-tool-nerds/).)
 
