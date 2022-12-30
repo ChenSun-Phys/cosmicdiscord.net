@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Physicists' Toolbox Part I
-subtitle: A quick tour to the tools we use for our daily drives
+subtitle: A quick tour to the tools we use for our daily drives, order-of-magnitude estimate
 tags: [pop science]
 comments: true
 cover-img: /assets/img/tool-box.png
@@ -96,6 +96,8 @@ You can see that even with this aggressive assumption, the amount of dark matter
 Many people like the order-of-magnitude estimate for different reasons. For me, this converts the slow thinking process to the fast thinking process, if you are also a big fan of Daniel Kahneman. 
 
 In the end, here's a word of warning: during an order-of-magnitude estimate, your intuition gets amplified, you get some quick answer, and it's more fun, but that also means you could easily miss some important details. After all, this is just the first step of a serious estimate. 
+
+*Edit as of 2022-12-29,Thu*: Thanks to my colleague Dr. Nirmal Raj, it should be noted that the gravitational lensing effect can enhance the dark matter capturing by a few orders of magnitude. This is an example where order-of-magnitude estimate can make you jump too quick to conclusions neglecting certain details. However, even with five orders of magnitude enhancement, the captured mass fraction is still pretty tiny. 
 
 (Cover picture credit: [here](https://cyclingtips.com/2019/01/toolboxwars-a-battle-between-professional-cycling-tool-nerds/).)
 
