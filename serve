@@ -10,12 +10,15 @@ find _org/*md -exec sh -c 'sed "s/\.\/plots/\.\.\/assets\/img/g" $1 | sed '"'"'s
 
 
 # # copy the md files
+# # update: already done in the above one-liner
 # rsync -av _org/*md _posts/
 
 # # remove the md, so in the future sed won't cause new rsync copies
+# # update: already done in the above one-liner
 # rm _org/*md
 
 
+# # preview
 # jekyll bundle build
 bundle exec jekyll build
 # since in ruby >=3.0 jekyll serve won't work without tweaking, serve with python

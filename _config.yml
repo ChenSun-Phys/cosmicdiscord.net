@@ -14,14 +14,18 @@ author: Chen Sun
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "index"
-  About Me: "aboutme"
-  About This Site: "about_this_site"
+  Blog: "/"
+  About:
+      - Me: "aboutme"
+      - This site: "about_this_site"
+  # About Me: "aboutme"
+  # About This Site: "about_this_site"
   # Resources:
   #   - Beautiful Jekyll: "https://beautifuljekyll.com"
   #   - Learn markdown: "https://www.markdowntutorial.com/"
   # Author's home: "https://deanattali.com"
-  Publications: "pub"
+  # Publications: "pub"
+  Projects: "projects"
   Talks: "talks"
   CV: "cv"
   
@@ -68,7 +72,7 @@ social-network-links:
 #  telegram: yourname
 #  calendly: yourname
 #  mastodon: instance.url/@username
-#  ORCID: your ORCID ID
+  ORCID: 0000-0002-5145-1536
 #  google-scholar: your google scholar
 
 # If you want to show a link to an RSS in the footer, add the site description here.

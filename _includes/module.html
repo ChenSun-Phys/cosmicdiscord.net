@@ -1,0 +1,54 @@
+<style>
+  /* a { */
+  /*     color: inherit; */
+  /* } */
+  /* .colorless_link a:visited { */
+  /*     text-decoration:none;}   */
+  /* .colorless_link a:hover { */
+  /*     text-decoration:none;} */
+  /* .colorless_link:hover a { */
+  /*     text-decoration:none;} */
+  .colorless_link a:not(:hover) {
+      text-decoration:none;
+      color:inherit;}
+  .colorless_link a:hover {
+      text-decoration:none;}
+</style>
+
+{% assign alignment = {{include.alignment | default: 'left' }} %}
+
+<div style="clear: both;">
+  <div style="float: {{ alignment }};
+	      {% if alignment == 'left' %}margin-right: 1em;
+	      {% else %}margin-left: 1em;
+	      {% endif %}
+	      ">
+    <img src="{{ include.image_path }}" alt="" style="max-width: 400px;">
+  </div>
+  <div>
+    <div class="colorless_link">
+    <h4>
+      {% if include.doi %}
+      <a href= "{{ include.doi }}" target="_blank">
+	{{ include.title }}
+      </a>
+      {% else %}
+      {{ include.title }}
+      {% endif %}
+      {% if include.url %}
+      <a href= "{{ include.url }}" target="_blank"><img src="https://img.shields.io/badge/github-repo-blue"></a>
+      {% endif %}
+    </h4>
+    </div>
+    {{ include.description | markdownify }}
+  </div>
+</div>
+
+<!-- end the two columns -->
+<div style="clear: both;">
+</div>  
+
+<!-- latex support -->
+<script type="text/javascript" async
+	src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>

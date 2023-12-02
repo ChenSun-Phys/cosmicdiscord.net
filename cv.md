@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Curriculum Vitae
+layout: page_wide
+title: 
 ---
 
 
@@ -17,7 +17,7 @@ title: Curriculum Vitae
   <iframe id="pdf-js-viewer"
           src="/assets/js/pdfjs/web/viewer.html?file=%2Fassets%2Fdoc%2FChenSUN_CV.pdf"
           title="webviewer" frameborder="0"
-	  height="800"
+	  height="1000"
 	  style='width: 100%;' 
 	  ></iframe>
 </div>
