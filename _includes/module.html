@@ -23,7 +23,12 @@
 	      {% else %}margin-left: 1em;
 	      {% endif %}
 	      ">
-    <img src="{{ include.image_path }}" alt="" style="max-width: 400px;">
+    <!-- <img src="{{ include.image_path }}" alt="" style="max-width: 400px;"> -->
+    <!-- solves the cut-off problem on small screens -->
+    <!-- defined projects-image class in beatifuljekyll.css using @media -->
+    <dev class='projects-image'>
+      <img src="{{ include.image_path }}" alt="">
+    </dev>
   </div>
   <div>
     <div class="colorless_link">
