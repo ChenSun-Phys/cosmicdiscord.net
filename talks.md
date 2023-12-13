@@ -4,7 +4,13 @@ title: Presentations
 ---
 <!-- cover-img: /assets/img/talks_getty_614138202_2000133520009280253_328692.jpg -->
 
-Here are a few talks that I gave recently. I'll try to upload a few more in the future, if I manage to collect the pieces :-)
+Here are a few talks that I gave recently. I'll try to upload a few more in the future, if I manage to collect the pieces.
+
+
+A talk given at the HEP/Astro Results Forum on the recent work on axion magnetic resonance <a href="https://arxiv.org/abs/2308.10925" target="_blank">2308.10925</a>. The talk also contains a short review on the global search effort for axions.
+<div style="text-align: center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vOHD7jkysn0?si=GKtd8bY_r7RSxg01" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+  </div>
 
 
 Seminar talk given at University of Maryland on probing ultralight dark matter with galaxy kinematics from SPARC dataset <a href="https://arxiv.org/abs/2111.03070" target="_blank">2111.03070</a>:
