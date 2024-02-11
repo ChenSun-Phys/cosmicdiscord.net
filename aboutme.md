@@ -13,6 +13,6 @@ My OpenPGP pub key can be found [here](../assets/doc/public_key.txt), with finge
 
 	gpg --locate-keys --auto-key-locate clear,nodefault,wkd chensun_at_cosmicdiscord_dot_net && gpg --refresh-keys
 	wget -O- https://cosmicdiscord.net/assets/doc/public_key.txt |gpg --import
-	gpg --keyserver https://keys.openpgp.org --search-keys "sunchen8635_at_gmail_dot_com"
-	gpg --keyserver https://keyserver.ubuntu.com --search-keys "sunchen8635_at_gmail_dot_com"
+	gpg --keyserver hkp://keys.openpgp.org --search-keys "sunchen8635_at_gmail_dot_com"
+	gpg --keyserver hkp://keyserver.ubuntu.com --search-keys "sunchen8635_at_gmail_dot_com"
 
