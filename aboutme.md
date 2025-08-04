@@ -4,7 +4,7 @@ title: About me
 cover-img: /assets/img/self_gen/aboutme_cover.jpg
 ---
 
-My name is Chen Sun. I am a theoretical physicist working at the interface of high energy physics, astrophysics, and cosmology. I focus on probing physics beyond the Standard Model with novel astrophysical and cosmological observables. I'm currently working as a postdoc at Los Alamos National Laboratory in New Mexico. My previous stays include Tel Aviv University, Brown University, Dartmouth College, and Virginia Tech, in reverse chronological order. 
+My name is Chen Sun. I am a theoretical physicist working at the interface of high energy physics, astrophysics, and cosmology. I focus on probing physics beyond the Standard Model with novel astrophysical and cosmological observables. I'm currently working as a postdoc at the International Centre for Theoretical Physics in Trieste, Italy. My previous stays include Los Alamos National Laboratory, Tel Aviv University, Brown University, Dartmouth College, and Virginia Tech, in reverse chronological order. 
 
 
 --- 
