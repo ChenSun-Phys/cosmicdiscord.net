@@ -1,3 +1,0 @@
-<IfModule mod_mime.c>
-    ForceType application/pgp-key
-</IfModule>
